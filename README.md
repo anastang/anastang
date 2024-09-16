@@ -23,7 +23,12 @@
 
 ###
 
-<p align="left">- 📚 I'm currently studying Management Engineering @ University of Waterloo<br>- 🔭 Excited about software and making data work smarter<br>- 👩‍💻 Previous Data Analyst Intern @ PINpoint, SWD Intern @ Ontario Government, Data Engineer Intern @ Life Design Analysis<br>- ⚡ Outside of work, I’m all about soccer and exploring new films</p>
+<ul align="left">
+  <li>📚 I'm currently studying <a href="https://uwaterloo.ca/future-students/programs/management-engineering" target="_blank">Management Engineering</a> @ University of Waterloo</li>
+  <li>🔭 Excited about software and making data work smarter</li>
+  <li>👩‍💻 Previous Data Analyst Intern @ PINpoint, SWD Intern @ Ontario Government, Data Engineer Intern @ Life Design Analysis</li>
+  <li>⚡ Outside of work, I’m all about soccer and exploring new films</li>
+</ul>
 
 ###
 
