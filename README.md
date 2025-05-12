@@ -26,7 +26,7 @@
 <ul align="left">
   <li>📚 I'm currently studying <a href="https://uwaterloo.ca/future-students/programs/management-engineering" target="_blank">Management Engineering</a> @ University of Waterloo</li>
   <li>🔭 Excited about software and making data work smarter</li>
-  <li>👩‍💻 Previous Data Engineer Intern @ RideCo, Data Emgomeer Intern @ PINpoint, SWD Intern @ Ontario Government, Data Engineer Intern @ Life Design Analysis</li>
+  <li>👩‍💻 Previous Data Engineer Intern @ RideCo, Data Engineer Intern @ PINpoint, SWD Intern @ Ontario Government, Data Engineer Intern @ Life Design Analysis</li>
   <li>⚡ Outside of work, I’m all about soccer and exploring new films</li>
 </ul>
 
